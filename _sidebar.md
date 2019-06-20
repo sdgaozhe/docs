@@ -12,4 +12,4 @@
   * [Nginx](depoly/nginx.md)
   
 * SQL
-  * [MongoDb](SQL/mongo.db)
+  * [MongoDb](SQL/mongo.md)
