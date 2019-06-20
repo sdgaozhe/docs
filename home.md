@@ -1,11 +1,7 @@
-### BoJueAPI :id=bojueapi
+### Bug 记录册 :id=bug
 
-> 关于本API 
+> 记录 Python 工作学习中的各种坑
 
-- 基于Python3.6 && Tornado5.1
-- C10K助力,无需担心接口调用返回速度
-
-> 接口介绍
-
-- 随即语录：提供随机经典语句
-- one：提供韩寒one每日一句
+- 前端学习(Html、css、js、Jquery、BootStrap、Vue.js)
+- 后端学习(C/C++、Python、Mysql、Golang、Redis、MongoDB)
+- 运维部署(Docker、Nginx、Centos、Git、Kubernetes)
