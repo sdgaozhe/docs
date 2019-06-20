@@ -6,4 +6,4 @@
 * 后端学习(C/C++、Python、Mysql、Golang、Redis、MongoDB)
 * 运维部署(Docker、Nginx、Centos、Git、Kubernetes)
 
-[Get Started](#bug)
+[点击进入](#bug)
