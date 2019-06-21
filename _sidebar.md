@@ -4,6 +4,7 @@
 * Linux
   * [SSH](Linux/ssh.md)
   * [Ubuntu](Linux/Ubuntu.md)
+  * [Raspberry Pi](Linux/pi.md)
 
 * Git
   * [Git](Git/git.md)
