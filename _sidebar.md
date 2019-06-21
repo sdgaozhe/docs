@@ -3,7 +3,7 @@
   
 * Linux
   * [SSH](Linux/ssh.md)
-
+  * [Ubuntu](Linux/Ubuntu.md)
 
 * Git
   * [Git](Git/git.md)
