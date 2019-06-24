@@ -9,7 +9,6 @@ pymysql.install_as_MySQLdb()
 > __init__() missing 1 required positional argument: 'on_delete'
 
 - Django > 2.0,定义外键和一对一关系的时候需要加on_delete选项，此参数为了避免两个表里的数据不一致问题
-- 参数说明
 * on_delete有CASCADE、PROTECT、SET_NULL、SET_DEFAULT、SET()五个可选择的值
 * CASCADE：此值设置，是级联删除。
 * PROTECT：此值设置，是会报完整性错误。
