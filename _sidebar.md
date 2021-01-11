@@ -16,7 +16,7 @@
   * [MongoDb](SQL/mongo.md)
 * Depoly
   
-* [nginx](depoly/nginx.md)
+  * [nginx](depoly/nginx.md)
   
 * FastAPI
 
