@@ -15,11 +15,12 @@
   
   * [MongoDb](SQL/mongo.md)
 * Depoly
-  * [nginx](depoly/nginx.md)
+  
+* [nginx](depoly/nginx.md)
+  
+* FastAPI
 
-- FastAPI
-
-  - [第一章](FastAPI/第一章.md)
+  * [第一章](FastAPI/第一章.md)
 
   
   
