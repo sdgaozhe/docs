@@ -21,7 +21,7 @@
   
 * Depoly
 
-  	- [nginx.md](depoly/nginx.md)
+  * [nginx.md](depoly/nginx.md)
 
 - FastAPI
 
