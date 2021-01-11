@@ -1,5 +1,5 @@
 * Python
-  * [Django](Python/django1.md)
+  * [Django](Python/django.md)
   * [Str](Python/str.md)
 * Linux
   * [SSH](Linux/ssh.md)
@@ -11,7 +11,5 @@
   * [Nginx](depoly/nginx.md)
 * SQL
   * [MongoDb](SQL/mongo.md)
-* Depoly
-  * [nginx](depoly/nginx.md)
 * FastAPI
   * [第一章](FastAPI/第一章.md)
