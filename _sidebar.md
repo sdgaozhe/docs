@@ -6,22 +6,12 @@
   * [Ubuntu](Linux/Ubuntu.md)
   * [Raspberry Pi](Linux/pi.md)
 * Git
-  
   * [Git](Git/git.md)
 * Depoly
-  
   * [Nginx](depoly/nginx.md)
 * SQL
-  
   * [MongoDb](SQL/mongo.md)
 * Depoly
-  
   * [nginx](depoly/nginx.md)
-  
 * FastAPI
-
   * [第一章](FastAPI/第一章.md)
-
-  
-  
-  
